@@ -1,0 +1,4 @@
+"-l -p 8080 -d /usr/logs" => args
+args["l"] => True
+args["p"] => 8080
+args["d"] => '/usr/logs'
